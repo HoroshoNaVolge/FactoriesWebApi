@@ -1,2 +1,3 @@
-# FactoriesWebApi
-aspnet core webapi to operate factories 
+# Учебный репозиторий 
+Содержит учебный проект Factories.WebApi:
+Позволяет через контроллеры авториованным пользователям взаимодействовать с объектами на фабрике через методы (Factories, Units, Tanks).
